@@ -218,7 +218,10 @@ a.project-link:hover {
   pointer-events: none;
   z-index: 2;
 }
+.footer a {
 
+  color: #00c6ff;
+}
 /* 🎈 Footer Bubbles */
 .footer-bubbles {
   position: absolute;
@@ -246,10 +249,7 @@ a.project-link:hover {
 .footer-bubbles span:nth-child(3) { left: 65%; animation-delay: 4s; }
 .footer-bubbles span:nth-child(4) { left: 85%; animation-delay: 1s; }
 .footer-bubbles span:nth-child(5) { left: 35%; animation-delay: 3s; }
-footer a {
 
-  color: #00c6ff;
-}
 /* 🔼 Back to Top Button */
 #topBtn {
   display: none;
