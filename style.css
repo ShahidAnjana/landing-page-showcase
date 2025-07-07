@@ -195,7 +195,7 @@ a.project-link:hover {
 }
 
 .footer a {
-  color: #ffffff;
+  color: #00c6ff;
   margin: 0 10px;
   text-decoration: underline;
   font-weight: 500;
@@ -217,12 +217,8 @@ a.project-link:hover {
   animation: light-sweep 3s linear infinite;
   pointer-events: none;
   z-index: 2;
-}
-.footer a {
 
-  color: #00c6ff;
-}
-/* 🎈 Footer Bubbles */
+  /* 🎈 Footer Bubbles */
 .footer-bubbles {
   position: absolute;
   bottom: 0;
