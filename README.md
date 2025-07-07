@@ -19,7 +19,7 @@ Explore multiple responsive landing pages built with **HTML5, CSS3, and JavaScri
 
 Click below to preview real landing pages:
 
-- 📩 [Email Subscription / Lead Capture](https://shahidanjana.github.io/email-subscription-lead-capture/)
+- 📩 [Email Subscription / Lead Capture](https://shahidanjana.github.io/email-subscription-landing-page/)
 - 🚀 [Beta App Launch](https://shahidanjana.github.io/beta-launch-landing-page/)
 - 🎯 [Fiverr Gig Landing Page](https://shahidanjana.github.io/fiverr-gig-landing-page/)
 - 📁 [View All Landing Pages](https://shahidanjana.github.io/landing-page-showcase/)
