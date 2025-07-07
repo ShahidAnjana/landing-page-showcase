@@ -1,7 +1,7 @@
 # 🌐 Landing Page Showcase | Muhammad Shahid
 
 Welcome to my professional web project portfolio!  
-Explore 130+ responsive landing pages built with HTML5 & CSS3 — perfect for businesses, portfolios, and agencies.
+Explore multiple responsive landing pages built with HTML5 & CSS3 — perfect for businesses, portfolios, and agencies.
 
 ## 🚀 Features
 - Fully responsive designs
@@ -11,7 +11,7 @@ Explore 130+ responsive landing pages built with HTML5 & CSS3 — perfect for bu
 
 ## 📂 Live Demo Links
 View all live projects here:  
-👉 [Visit Showcase Page](https://shahidthedev.github.io/your-repo-name/)
+👉 [Visit Showcase Page](https://shahidthedev.github.io/landing-page-showcase/)
 
 ## 📬 Contact
 - [Fiverr Profile](https://www.fiverr.com/shahidthedev)
