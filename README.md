@@ -1,55 +1,59 @@
-# 🌐 Landing Page Showcase | Muhammad Shahid
+# 🌐 Landing Page Showcase | Muhammad Shahid (aka @shahidthedev)
 
 Welcome to my professional **Landing Page Showcase**!  
-Explore multiple responsive landing pages built with **HTML5, CSS3, and JavaScript** — perfect for **businesses, portfolios, products, lead generation**, and more.
+Explore clean, responsive landing pages built with **HTML5, CSS3, and JavaScript** — perfect for **apps, products, services, and lead generation**.
 
 ---
 
 ## 🚀 Features
 
 - ✅ Fully responsive (mobile-friendly)
-- ✅ Fast-loading & clean HTML/CSS/JS code
-- ✅ Modern layouts, CTAs, and animations
-- ✅ SEO-friendly and pixel-perfect design
-- ✅ Easily customizable for any niche
+- ✅ Fast-loading, clean code (HTML/CSS/JS)
+- ✅ Modern layouts, CTA buttons, subtle animations
+- ✅ SEO-friendly & pixel-perfect
+- ✅ Easily customizable for any industry
 
 ---
 
-## 📂 Live Demo Projects
+## 📂 Live Demo Previews
 
-Click below to preview real landing pages:
-
-- 📩 [Email Subscription / Lead Capture](https://shahidanjana.github.io/email-subscription-landing-page/)
-- 🚀 [Beta App Launch](https://shahidanjana.github.io/beta-launch-landing-page/)
-- 🎯 [Fiverr Gig Landing Page](https://shahidanjana.github.io/fiverr-gig-landing-page/)
-- 📁 [View All Landing Pages](https://shahidanjana.github.io/landing-page-showcase/)
-
----
-
-## 🎯 Ideal For
-
-- Freelancers & Fiverr Sellers  
-- Product / App Launches  
-- Lead Generation & Freebies  
-- Event Registration  
-- Local Businesses  
-- Portfolios & Personal Branding
+| Landing Page Type            | Live Demo |
+|-----------------------------|-----------|
+| 📩 Email Subscription Page   | [Preview](https://shahidanjana.github.io/email-subscription-page/) |
+| 🚀 App Beta Launch Page      | [Preview](https://shahidanjana.github.io/beta-launch-landing-page/) |
+| 💼 Fiverr Gig Landing Page   | [Preview](https://shahidanjana.github.io/fiverr-gig-landing-page/) |
+| 📁 View All Landing Pages    | [Showcase](https://shahidanjana.github.io/landing-page-showcase/) |
 
 ---
 
-## 📬 Contact Me
+## 🎯 Best For
 
-🔗 [Fiverr Profile (Hire Me)](https://www.fiverr.com/s/38qNQ6A)  
-💼 [GitHub Portfolio](https://github.com/shahidanjana)
+- Fiverr freelancers & service providers  
+- App/product pre-launches  
+- Freebie downloads or lead magnets  
+- Email capture & newsletter opt-ins  
+- Portfolio or agency intro pages  
+
+---
+
+## 💬 Need a Custom Landing Page?
+
+If you’re launching a product, promoting a service, or need a high-converting opt-in page —  
+👉 [**Hire me on Fiverr**](https://www.fiverr.com/s/38qNQ6A) to build a tailored landing page.
+
+---
+
+## 📞 Contact
+
+- 💼 Fiverr: [@shahidthedev](https://www.fiverr.com/s/38qNQ6A)  
+- 📧 Email: shahidwebstudio@gmail.com  
+- 🖥️ GitHub: [shahidanjana](https://github.com/shahidanjana)
 
 ---
 
 ## 🔒 License & Usage
 
 These demos are for **preview only**.  
-Please **do not copy, reuse, or modify** without written permission.  
-Want a custom version? ➡️ [Hire me on Fiverr](https://www.fiverr.com/s/38qNQ6A)
+Please **do not copy, reuse, or modify** without written permission.
 
----
-
-> 👨‍💻 Crafted with code & creativity by **Muhammad Shahid | Shahid Web Studio**
+© 2025 **Muhammad Shahid | Shahid Web Studio | @shahidthedev** — All rights reserved.
