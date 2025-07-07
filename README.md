@@ -19,7 +19,7 @@ Explore clean, responsive landing pages built with **HTML5, CSS3, and JavaScript
 
 | Landing Page Type            | Live Demo |
 |-----------------------------|-----------|
-| 📩 Email Subscription Page   | [Preview](https://shahidanjana.github.io/email-subscription-page/) |
+| 📩 Email Subscription Page   | [Preview](https://shahidanjana.github.io/email-subscription-landing-page/) |
 | 🚀 App Beta Launch Page      | [Preview](https://shahidanjana.github.io/beta-launch-landing-page/) |
 | 💼 Fiverr Gig Landing Page   | [Preview](https://shahidanjana.github.io/fiverr-gig-landing-page/) |
 | 📁 View All Landing Pages    | [Showcase](https://shahidanjana.github.io/landing-page-showcase/) |
